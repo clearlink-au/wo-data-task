@@ -14,4 +14,4 @@ Use technology of your choice (SQL/Python/R) to answer the following questions. 
 * Do viewers who watch certain genre of movies also watch another genre?
 
 # Submission
-You can submit your findings as a Jupyter notebook, Google Data Studio Report or Google Sheet
+You can submit your findings as a Jupyter notebook (Preferred), Google Data Studio Report (Preferred) or Google Sheet
